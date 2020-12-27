@@ -68,8 +68,9 @@ a:hover{
 
 .cloud-bottom{
   position:absolute;
-   top: 350px;
+   top: 100px;
    left: 10px;
+   width: 50%;
 
 }
 .cloud-top{
